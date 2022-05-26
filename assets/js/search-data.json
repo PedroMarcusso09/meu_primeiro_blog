@@ -1,11 +1,22 @@
 {
   
+    
+        "post0": {
+            "title": "Minha página",
+            "content": "Aprendendo a criar uma página de blog com o Jupyter Notebook . toc: false | branch: master | badges: false | comments: false | author: Pedro | categories: [blog] | . import pandas as pd import numpy as np . data = np.random.randint(0,1000,(10,10)) data . array([[195, 597, 311, 784, 36, 999, 893, 280, 98, 473], [732, 900, 208, 205, 32, 38, 71, 25, 223, 359], [915, 466, 801, 592, 75, 32, 304, 708, 96, 369], [221, 44, 668, 30, 955, 488, 381, 400, 948, 487], [606, 448, 76, 491, 689, 164, 157, 356, 789, 190], [477, 661, 888, 694, 138, 655, 979, 711, 10, 478], [ 45, 410, 637, 279, 219, 950, 27, 957, 502, 347], [406, 730, 187, 276, 788, 473, 670, 376, 163, 130], [584, 934, 559, 923, 925, 872, 724, 965, 413, 975], [552, 15, 262, 449, 879, 235, 521, 239, 401, 528]]) . df1 = pd.DataFrame(data) df1 . 0 1 2 3 4 5 6 7 8 9 . 0 195 | 597 | 311 | 784 | 36 | 999 | 893 | 280 | 98 | 473 | . 1 732 | 900 | 208 | 205 | 32 | 38 | 71 | 25 | 223 | 359 | . 2 915 | 466 | 801 | 592 | 75 | 32 | 304 | 708 | 96 | 369 | . 3 221 | 44 | 668 | 30 | 955 | 488 | 381 | 400 | 948 | 487 | . 4 606 | 448 | 76 | 491 | 689 | 164 | 157 | 356 | 789 | 190 | . 5 477 | 661 | 888 | 694 | 138 | 655 | 979 | 711 | 10 | 478 | . 6 45 | 410 | 637 | 279 | 219 | 950 | 27 | 957 | 502 | 347 | . 7 406 | 730 | 187 | 276 | 788 | 473 | 670 | 376 | 163 | 130 | . 8 584 | 934 | 559 | 923 | 925 | 872 | 724 | 965 | 413 | 975 | . 9 552 | 15 | 262 | 449 | 879 | 235 | 521 | 239 | 401 | 528 | . &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot;viewBox=&quot;0 0 24 24&quot; width=&quot;24px&quot;&gt; &lt;/svg&gt; 0 1 2 3 4 5 6 7 8 9 . 0 195 | 597 | 311 | 784 | 36 | 999 | 893 | 280 | 98 | 473 | . 1 732 | 900 | 208 | 205 | 32 | 38 | 71 | 25 | 223 | 359 | . 2 915 | 466 | 801 | 592 | 75 | 32 | 304 | 708 | 96 | 369 | . 3 221 | 44 | 668 | 30 | 955 | 488 | 381 | 400 | 948 | 487 | . 4 606 | 448 | 76 | 491 | 689 | 164 | 157 | 356 | 789 | 190 | . 5 477 | 661 | 888 | 694 | 138 | 655 | 979 | 711 | 10 | 478 | . 6 45 | 410 | 637 | 279 | 219 | 950 | 27 | 957 | 502 | 347 | . 7 406 | 730 | 187 | 276 | 788 | 473 | 670 | 376 | 163 | 130 | . 8 584 | 934 | 559 | 923 | 925 | 872 | 724 | 965 | 413 | 975 | . 9 552 | 15 | 262 | 449 | 879 | 235 | 521 | 239 | 401 | 528 | . &lt;svg xmlns=&quot;http://www.w3.org/2000/svg&quot; height=&quot;24px&quot;viewBox=&quot;0 0 24 24&quot; width=&quot;24px&quot;&gt; &lt;/svg&gt;",
+            "url": "https://pedromarcusso09.github.io/meu_primeiro_blog/2022/05/25/Primeiro-Post-(1).html",
+            "relUrl": "/2022/05/25/Primeiro-Post-(1).html",
+            "date": " • May 25, 2022"
+        }
+        
+    
+  
 
   
   
 
   
-      "page1": {
+      ,"page1": {
           "title": "About Me",
           "content": "This website is powered by fastpages 1. . a blogging platform that natively supports Jupyter notebooks in addition to other formats. &#8617; . |",
           "url": "https://pedromarcusso09.github.io/meu_primeiro_blog/about/",
